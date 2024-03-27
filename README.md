@@ -1,7 +1,7 @@
 # Transfer Report Appendices
 Appendices for Transfer Report for My Thesis "An Explainable AI Framework for Music Generation and Evaluation".  
 This repository contains detailed appendices and supplementary materials for the transfer report for "An Explainable AI Framework for Music Generation and Evaluation" by Chenhao Xue. The materials provided here extend the discussion and analysis presented in the thesis, offering additional insights into the Literature Review section (Noise2Music model, music feature engineering), First Year Work section (feature extraction, visualizations), and Research Proposal section (9-months plan for proposed project 2 and project 3). Below is a guide to the appendices included in this repository.  
-The PDF file of the Appendices can be found in the Release v1.0.0
+**The PDF file of the Appendices can be found in the Release v1.0.0**
 
 # Appendix A: Personal & Professional Development
 This section lists some of my personal and professional skills developed during the first year time of my DPhil.
